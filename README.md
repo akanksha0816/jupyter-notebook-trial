@@ -1,0 +1,1 @@
+i have made this small repository filled with basic python codes for a personal use to understand how they work and what output will be received. It is also to understand and get good practice with jupyter notebooks.
